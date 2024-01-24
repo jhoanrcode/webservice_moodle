@@ -32,4 +32,4 @@ per_page  : 3 (PARAM2 Cursos por pagina)
 
 Autor
 ------
-Jhoan Avila Gutierrez (joria94@hotmail.edu) - 3203645490.
+Jhoan Avila Gutierrez (joria94@hotmail.com) - 3203645490.
