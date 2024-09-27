@@ -1,4 +1,4 @@
-Prueba Tecnica - Jhoan Avila - Web Service
+Local Plugin Moodle - Web Service - Jhoan Avila
 =========================
 
 Este plugin retorna por medio de un Web Service un listado de cursos paginados de acuerdo el numero de paginas y la cantidad de cursos por pagina que se le indique. Para consumir este servicio tenga en cuenta las siguientes recomendaciones:
@@ -28,8 +28,3 @@ wsfunction  : local_prueba_jhoan_get_courses_by_pagination
 moodlewsrestformat : json
 page  : 1 (PARAM1 Numero de paginacion)
 per_page  : 3 (PARAM2 Cursos por pagina)
-
-
-Autor
-------
-Jhoan Avila Gutierrez (joria94@hotmail.com) - 3203645490.
